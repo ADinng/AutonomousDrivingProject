@@ -1,0 +1,12 @@
+# Autonomous Driving Project Default Configuration
+
+# Project basic information
+project:
+  name: "Autonomous Driving Project"
+  version: "0.1.0"
+  description: "A learning project from scratch"
+
+# Basic settings
+settings:
+  debug: true
+  log_level: "INFO"
